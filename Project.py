@@ -62,7 +62,7 @@ def main():
             print("Thank you for using the Movie Ticket Booking App!")
             break
         else:
-            print("Invalid choice! Try again.😭\n")
+            print("Invalid choice! Try again.\n")
 
 main()
 
